@@ -36,7 +36,7 @@ To replicate the analysis, you'll need the following Python libraries installed:
 
 1. **Clone the Repository**: Start by cloning the repository to your local machine.
     
-    git clone <repository_url>
+    git clone (https://github.com/Hamdanovic98/-A-Data-Driven-Clustering-Approach-in-Football.git)
     
 
 2. **Install Dependencies**: Ensure you have all the required Python libraries installed. You can install them using:
